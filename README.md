@@ -12,6 +12,6 @@ Sennheiser 4.50 btnc
 Debian
 
 # dependencies
-bluez
-bluetoothd
-pulseaudio
+- bluez
+- bluetoothd
+- pulseaudio
